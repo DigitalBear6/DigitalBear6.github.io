@@ -24,7 +24,7 @@
 <p>进入文件夹：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> blog</span><br></pre></td></tr></table></figure>
 <h1 id=""><a href="#" class="headerlink" title=""></a></h1><h2 id="GitHub准备"><a href="#GitHub准备" class="headerlink" title="GitHub准备"></a><a href="https://github.com/">GitHub</a>准备</h2><h3 id="创建账号"><a href="#创建账号" class="headerlink" title="创建账号"></a>创建账号</h3><p>没啥好说的，信息随便填</p>
-<h3 id="创建存储库"><a href="#创建存储库" class="headerlink" title="创建存储库"></a>创建存储库</h3><p>进入”Your repositories”<br>![github存储库1](&#x2F;images&#x2F;hexo-ztj&#x2F;1.png &#x3D;110x220)<br>#<br>打开 _config.yml<br>可以在终端用vim打开：</p>
+<h3 id="创建存储库"><a href="#创建存储库" class="headerlink" title="创建存储库"></a>创建存储库</h3><p>进入”Your repositories”<br><img src="/images/hexo-ztj/1.png" width = "300" height = "200" alt="github存储库1" align=center /><br>#<br>打开 _config.yml<br>可以在终端用vim打开：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ vim _config.yml</span><br></pre></td></tr></table></figure>
 <p>输入”i”以打开</p>
 <p>找到以下内容</p>
