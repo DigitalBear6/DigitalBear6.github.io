@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2022/04/22/Hexo%E6%8A%98%E8%85%BE%E8%AE%B0/</url>
+    <url>/2022/04/22/Hexo%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<p><a href="https://hexo.io/">Hexo</a>是一个轻便的博客框架，其中内建的功能和插件能大幅度提高建站效率。 </p>
 <h1 id="搭建Hexo-NexT-博客"><a href="#搭建Hexo-NexT-博客" class="headerlink" title="搭建Hexo-NexT 博客"></a>搭建Hexo-NexT 博客</h1><h2 id="下载Node-Js"><a href="#下载Node-Js" class="headerlink" title="下载Node Js"></a>下载<a href="https://nodejs.org/">Node Js</a></h2><p>Hexo是基于Node Js搭建的，所想用Hexo就必须配置Node Js环境。</p>
 <p>选择对应的操作系统<a href="https://nodejs.org/en/download/">下载Node Js</a></p>
