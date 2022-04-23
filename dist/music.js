@@ -60,3 +60,9 @@ const ap = new APlayer({
       }
     ]
 });
+const con = new APlayer({
+    container: document.getElementById('aplayer'),
+    // fixed: true,
+    autoplay: true,
+    audio: [{}]
+});
