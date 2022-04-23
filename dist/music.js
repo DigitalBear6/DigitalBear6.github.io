@@ -50,6 +50,13 @@ const ap = new APlayer({
         artist: '王恩信Est / 二胖u',
         url: 'http://music.163.com/song/media/outer/url?id=1386259535.mp3',
         cover: '/images/4.jpg',
+
+        name: '悟',
+        artist: '刘德华',
+        url: '/music/刘德华-悟.ape',
+        cover: '/images/4.jpg'
+
+
       }
     ]
 });
