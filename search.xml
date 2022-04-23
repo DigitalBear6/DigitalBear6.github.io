@@ -58,4 +58,37 @@
         <tag>Next</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Hexo建站记录</title>
+    <url>/2022/04/23/music/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Music-test"><a href="#Music-test" class="headerlink" title="Music (test)"></a>Music (test)</h1>
+        <div id="aplayer-BXaZczjB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-BXaZczjB"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "Caffeine",
+              author: "Jeff Williams",
+              url: "/music/19Extended-听力.mp3",
+              pic: "",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+]]></content>
+      <categories>
+        <category>Music</category>
+      </categories>
+      <tags>
+        <tag>Music</tag>
+      </tags>
+  </entry>
 </search>
